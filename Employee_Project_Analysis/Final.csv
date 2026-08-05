@@ -1,0 +1,15 @@
+ID,City,Age,First Name,Last Name,Designation Level,Project,Cost,Status,Bonus
+A001,Paris,25,Mr. John,Alter,2,Project 1,1002000.0,Finished,50100.0
+A001,Paris,25,Mr. John,Alter,2,Project 9,2061714.2857142857,Ongoing,0.0
+A001,Paris,25,Mr. John,Alter,3,Project 11,2000000.0,Failed,0.0
+A002,London,27,Mrs. Alice,Luxumberg,2,Project 2,2000000.0,Ongoing,0.0
+A002,London,27,Mrs. Alice,Luxumberg,3,Project 6,680000.0,Failed,0.0
+A003,Berlin,29,Mr. Tom,Sabestine,3,Project 3,4500000.0,Finished,225000.0
+A003,Berlin,29,Mr. Tom,Sabestine,4,Project 8,350000.0,Failed,0.0
+A003,Berlin,29,Mr. Tom,Sabestine,3,Project 10,300000.0,Finished,15000.0
+A004,Newyork,31,Mrs. Nina,Adgra,1,Project 4,5500000.0,Ongoing,0.0
+A004,Newyork,31,Mrs. Nina,Adgra,1,Project 12,1000000.0,Ongoing,0.0
+A004,Newyork,31,Mrs. Nina,Adgra,1,Project 13,3000000.0,Finished,150000.0
+A005,Madrid,30,Mrs. Amy,Johny,2,Project 5,3250500.0,Finished,162525.0
+A005,Madrid,30,Mrs. Amy,Johny,2,Project 7,400000.0,Finished,20000.0
+A005,Madrid,30,Mrs. Amy,Johny,2,Project 14,200000.0,Finished,10000.0
