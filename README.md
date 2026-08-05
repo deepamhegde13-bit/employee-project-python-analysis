@@ -16,16 +16,7 @@ This project simulates that workflow using Python and Pandas.
 
 ---
 
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-
-## Development Tools
-
-- Visual Studio Code (VS Code)
-- Jupyter Notebook
+**Technologies & Tools:** Python, Pandas, NumPy, Jupyter Notebook, Visual Studio Code (VS Code)
 
 ---
 
