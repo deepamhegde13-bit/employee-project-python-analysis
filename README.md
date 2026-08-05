@@ -70,4 +70,12 @@ This project demonstrates practical use of Python and Pandas for solving busines
 
 ---
 
+## 📂 View Complete Project
+
+The detailed project documentation, screenshots, notebook, and datasets are located in:
+
+**Employee_Project_Analysis/**
+
+---
+
 ⭐ If you found this project interesting, feel free to explore the repository.
