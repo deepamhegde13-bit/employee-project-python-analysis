@@ -19,8 +19,22 @@ The notebook demonstrates data cleaning, transformation, merging, business rule 
 
 ---
 
-# Screenshots
+## Screenshots
 
-## Project Overview
-
+### Project Overview
 ![Project Overview](project-overview.png)
+
+---
+
+### Data Merge (Task 4)
+![Task 4](task4-data-merge.png)
+
+---
+
+### Bonus Calculation (Task 5)
+![Task 5](task5-bonus-calculation.png)
+
+---
+
+### Project Conclusion
+![Conclusion](project-conclusion.png)
